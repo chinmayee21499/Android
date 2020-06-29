@@ -1,0 +1,2 @@
+Hello people,
+Started to learn androidx development through a workshop during this pandemic situation. Making use of this time for some learning and useful stuffs.
